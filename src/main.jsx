@@ -6,7 +6,7 @@ import { App } from "./App.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter basename="/triple_individual">
+    <BrowserRouter basename="/Hooks">
       <App />
     </BrowserRouter>
   </StrictMode>,
